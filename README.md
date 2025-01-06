@@ -10,6 +10,7 @@ This project is a test automation framework for eBay using Playwright, Cucumber,
 - **TestNG**: A testing framework inspired by JUnit and NUnit for testing Java applications.
 - **Maven**: A build automation tool used primarily for Java projects.
 - **Git**: Version control system for tracking changes in the source code.
+- **Design Pattern**: Page Object Model (POM)
 
 
 ## Setup and Execution
@@ -22,7 +23,7 @@ This project is a test automation framework for eBay using Playwright, Cucumber,
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/your-repository/ebay-test-automation.git
-   cd ebay-test-automation
+   cd QASkillAssessmentDR
 
 
 
